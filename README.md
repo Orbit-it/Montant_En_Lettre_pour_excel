@@ -37,7 +37,7 @@ Enregistrer le classeur au format :
 
 ## ▶️ Utilisation
 
-Dans une cellule Excel, utilisez simplement :
+Dans une cellule Excel, utilisez simplement : =NombreEnLettre(A1)
 
 👉 **A1** contient le montant numérique à convertir.
 
