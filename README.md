@@ -6,7 +6,7 @@ Ouvrez l'éditeur VBA : Alt + F11
 
 Insérez un module : Clic droit sur "VBAProject" > Insérer > Module
 
-Copier le code du fichier "code.vba" et Collez le dans le module
+Copier le code du fichier "VBA" et Collez le dans le module
 
 Fermez l'éditeur et enregistrez le fichier au format .xlsm (classeur macro-enabled)
 
