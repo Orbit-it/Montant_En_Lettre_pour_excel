@@ -26,7 +26,7 @@ Dans Excel :
 
 ### 3️⃣ Ajouter le code
 
-- Copier le contenu du fichier **VBA**
+- Copier le contenu du fichier **NombreEnLettre**
 - Coller dans le module
 
 ### 4️⃣ Enregistrer le fichier
